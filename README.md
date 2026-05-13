@@ -1,4 +1,4 @@
-Olá! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Felipe Diogo
+Olá! Meu nome é Felipe Diogo
 =====================================================================================================================================
 
 Estudante de ADS e Desenvolvedor Backend
@@ -25,6 +25,6 @@ Sou acadêmico de Análise e Desenvolvimento de Sistemas (3º período) na Facul
 
 <b>Minhas Estatísticas no GitHub</b>
 
-<a href="http://www.github.com/AFFelipe"><img src="https://github-readme-stats.vercel.app/api?username=AFFelipe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de AFFelipe" /></a>
+<a href="http://www.github.com/AFFelipe"><img src="https://github-readme-stats-seven-sigma-99.vercel.app/api?username=AFFelipe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de AFFelipe" /></a>
 
-<a href="https://github.com/AFFelipe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFFelipe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" /></a>
+<a href="https://github.com/AFFelipe" align="left"><img src="https://github-readme-stats-seven-sigma-99.vercel.app/api/top-langs/?username=AFFelipe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Linguagens%20mais%20usadas" alt="Linguagens mais usadas" /></a>
